@@ -17,8 +17,7 @@ ATM Controller works as follows:
 No additional packages are use with this project.
 
 ## Run
-`python3 controller.py`
-Run this command on your terminal to run ATM Controller.  
+Enter `python3 controller.py` on your terminal to run ATM Controller.  
 Press `ctrl + c` to exit the program. 
 
 ## Test
